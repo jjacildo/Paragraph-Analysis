@@ -1,0 +1,7 @@
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\bin\Debug\Paragraph_Analysis.exe.config
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\bin\Debug\Paragraph_Analysis.exe
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\bin\Debug\Paragraph_Analysis.pdb
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\obj\Debug\Paragraph_Analysis.csprojAssemblyReference.cache
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\obj\Debug\Paragraph_Analysis.csproj.CoreCompileInputs.cache
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\obj\Debug\Paragraph_Analysis.exe
+C:\Users\seik3\Desktop\C# Projects\CIS-Project\Paragraph_Analysis\Paragraph_Analysis\obj\Debug\Paragraph_Analysis.pdb
